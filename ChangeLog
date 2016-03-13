@@ -1,3 +1,7 @@
+2016-02-23 - TUI 0.9.4-8 - sea
+* Updated: Provided info pages
+* Fixed: tui-status returns with passed exit code again
+
 2016-02-23 - TUI 0.9.4-7 - sea
 * Updated: tui-download, prints again the name and filesize
 * Updated: YASSI, applied '2.0-alpha-rc1' now
