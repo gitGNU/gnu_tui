@@ -45,7 +45,7 @@
 #
 #	Variable defaults
 #
-	script_version=1.6.2
+	script_version=1.6.3
 	# higher number, and more and more in another script..lol
 	ME="${0##*/}"
 #
@@ -148,4 +148,4 @@ AUTHOR
 	fi
 
 	tui-print -${R}S "${@}"
-	exit ${1:1}
+	exit ${1:-1}
